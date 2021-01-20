@@ -1,0 +1,16 @@
+{
+
+    "mentionIN": "<:information:769234471236665355> | **Hello, my prefix on this server is :**.",
+    "Adm": "<:cancel1:769230483863109632> | **You do not have the `BAN_MEMBERS` permissions**",
+    "ADM": "<:cancel1:769230483863109632> | **You do not have the `ADMINISTRATOR` permissions**",
+    "Bcp": "<:checkmark:769230483820773426> | **Backup successfully created. The backup ID was sent in dm!**",
+    "helpTXT": "Hello, to configure me, do `l.config`",
+    "Bimp": "<:file:771775714944090113> | **When the backup is loaded, all the channels, roles, etc. will be replaced! Type `-confirm` to confirm!**",
+    "Bcan": "<:cancel1:769230483863109632> |  **time's up! Cancelled backup loading!**",
+    "Bdeb": "**<:checkmark:769230483820773426> | Start loading the backup!**",
+    "err": "<:cancel1:769230483863109632> | **Sorry, an error occurred... Please check that I have administrator permissions!**",
+    "fnd": "<:cancel1:769230483863109632> | **No backup found for !**",
+    "Esucces": "<:checkmark:769230483820773426> |**Emoji succesfuly added to this server !**",
+
+    "langusage": "<:information:769234471236665355> | **Oops! there is an error in the use of the command, here is the correct use : "
+}

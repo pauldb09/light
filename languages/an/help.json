@@ -1,0 +1,8 @@
+{
+
+    "description": "show the command's list",
+    "title": "Help page",
+    "invite": "Invite the bot",
+    "links": "Usefull links",
+    "embedDescritpion": "Hi! To configure me, use the commande `l.config` or simply by going to my [dashboard](https://lightdashboarde.herokuapp.com/)/n●I have been developed by [The Light Team](https://github.com/lightjsbot/)/n● I have `217` commands."
+}

@@ -1,0 +1,16 @@
+
+{
+
+    "mentionIN": "<:information:769234471236665355> | **Bonjour , mon préfixe dans ce serveur est : **",
+    "Adm": "<:cancel1:769230483863109632> | **Vous n'avez pas la permission `BANNIR_MEMBRES`**",
+"ADM": "<:cancel1:769230483863109632> | **Vous n'avez pas la permission `ADMINISTRATEUR`**",
+          "Bcp": "<:checkmark:769230483820773426> | **La sauvegarde a été crée avec succès. Vous avez reçu l'id en MP!**",
+     "Bimp":"<:file:771775714944090113> | **Pendant que la sauvegarde se chargera , tout les roles ,salon..etc seront remplacés ! Tapez `-confirm` pour confirmer!**",
+     "Bcan":"<:cancel1:769230483863109632> |  **Temps écoulé! Anulation du chargement!**",
+     "Bdeb":"**<:checkmark:769230483820773426> | Début du chargement de la sauvegarde...!**",
+     "err":"<:cancel1:769230483863109632> | **Une erreur est arrivée , vérifiez si j'ai les permissions. **",
+     "fnd":"<:cancel1:769230483863109632> | **Aucunne backup trouvée pour : !**",
+     "helpTXT": "bonjour, pour me configurer , faites `l.config`",
+    "Esucces": "<:checkmark:769230483820773426> |**L'emoji a été ajouté avec succès à ce serveur !**",
+    "langusage": "<:information:769234471236665355> |**Merci de bien utliser cette commande :"
+}

@@ -1,0 +1,8 @@
+{
+
+    "description": "Affiche la liste des commandes",
+    "title": "Page d'aide",
+    "invite": "Inviter le bot",
+    "links": "Liens utiles",
+    "embedDescritpion": "● Bonjour , pour me configurer , faites `l.config` ou allez sur mon [Dashboard](https://lightdashboarde.herokuapp.com/)  ● J'ai été codé par [La team light](https://github.com/lightjsbot/)  ● je dispose de `217` commandes. "
+}
